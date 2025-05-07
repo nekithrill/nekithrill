@@ -5,7 +5,6 @@
 # **Hi there! 👋🏻**
 
 [![Instagram](https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram)](https://www.instagram.com/nekithrill/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nekithrill/)
 [![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/nekithrill)
 [![Website](https://img.shields.io/badge/WEBSITE-38b564?style=for-the-badge&logo=google-chrome&logoColor=ffffff)](https://www.yourwebsite.com)
 
