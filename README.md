@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**nekithrill/nekithrill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdpMHk0bHoydnE0aGEybHA4aXV0eGR2djN0Nm9pMTF2YmpvOTc3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4vXquk6z6tQ9fqqIjN/giphy.gif)
 
-Here are some ideas to get you started:
+# **Hi there! 👋🏻**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram](https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram)](https://www.instagram.com/nekithrill/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nekithrill/)
+[![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/nekithrill)
+[![Website](https://img.shields.io/badge/WEBSITE-38b564?style=for-the-badge&logo=google-chrome&logoColor=ffffff)](https://www.yourwebsite.com)
+
+
+[![GitHub followers](https://img.shields.io/github/followers/nekithrill?label=Followers&style=for-the-badge&logo=github&logoColor=ffffff&color=fff)](https://github.com/nekithrill)
+[![Wakatime](https://img.shields.io/badge/Wakatime-FF9D00?style=for-the-badge&logo=wakatime&logoColor=ffffff)](https://wakatime.com/@nekithrill)
+
+</div>
