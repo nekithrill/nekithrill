@@ -11,6 +11,6 @@
 
 
 [![GitHub followers](https://img.shields.io/github/followers/nekithrill?label=Followers&style=for-the-badge&logo=github&logoColor=ffffff&color=fff)](https://github.com/nekithrill)
-[![Wakatime](https://img.shields.io/badge/Wakatime-FF9D00?style=for-the-badge&logo=wakatime&logoColor=ffffff)](https://wakatime.com/@nekithrill)
+[![Wakatime](https://img.shields.io/badge/Wakatime-FF9D00?style=for-the-badge&logo=wakatime&logoColor=ffffff)](https://wakatime.com/@cfd60e7a-d331-44ca-b5b3-78411b38a536)
 
 </div>
