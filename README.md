@@ -9,8 +9,6 @@
   [![Telegram](https://img.shields.io/badge/Telegram-1d252c?style=for-the-badge&logo=telegram)](https://t.me/nekithrill)
   [![Website](https://img.shields.io/badge/Website-1d252c?style=for-the-badge&logo=google-chrome&logoColor=green)](https://www.nekithrill.com)
 
-  [![Hireable](https://img.shields.io/badge/Hireable-Yes-green)](mailto:youremail@example.com)
-
   </br>
 
   <h6>🛠 Stack</h6>
@@ -34,10 +32,10 @@
 
   <h6>📊 Stats</h6>
   <p>
-    <a href="https://github.com/nekithrill" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/nekithrill">
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nekithrill&theme=city_lights&custom_title=Github&show_icons=true"/>
     </a>
-    <a href="https://wakatime.com/@nekithrill" target="_blank" rel="noopener noreferrer">
+    <a href="https://wakatime.com/@nekithrill">
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekithrill&theme=city_lights&custom_title=Languages&layout=compact&langs_count=8&count_private=true"/>
     </a>
   </p>
