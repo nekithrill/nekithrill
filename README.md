@@ -4,12 +4,12 @@
 
 # **Hi there! 👋🏻**
 
-[![Instagram](https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram)](https://www.instagram.com/nekithrill/)
 [![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/nekithrill)
 [![Website](https://img.shields.io/badge/WEBSITE-38b564?style=for-the-badge&logo=google-chrome&logoColor=ffffff)](https://www.yourwebsite.com)
 
+[![wakatime](https://wakatime.com/badge/user/cfd60e7a-d331-44ca-b5b3-78411b38a536.svg)](https://wakatime.com/@cfd60e7a-d331-44ca-b5b3-78411b38a536)
 
-[![GitHub followers](https://img.shields.io/github/followers/nekithrill?label=Followers&style=for-the-badge&logo=github&logoColor=ffffff&color=fff)](https://github.com/nekithrill)
-[![Wakatime](https://img.shields.io/badge/Wakatime-FF9D00?style=for-the-badge&logo=wakatime&logoColor=ffffff)](https://wakatime.com/@cfd60e7a-d331-44ca-b5b3-78411b38a536)
+![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nekithrill&layout=compact&theme=transparent)
+
 
 </div>
