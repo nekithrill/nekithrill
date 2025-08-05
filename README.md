@@ -6,8 +6,8 @@
 
   <h6>📫 How to reach me</h5>
 
-  [![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/nekithrill)
-  [![Website](https://img.shields.io/badge/Website-38b564?style=for-the-badge&logo=google-chrome&logoColor=fff)](https://www.yourwebsite.com)
+  [![Telegram](https://img.shields.io/badge/Telegram-1d252c?style=for-the-badge&logo=telegram)](https://t.me/nekithrill)
+  [![Website](https://img.shields.io/badge/Website-1d252c?style=for-the-badge&logo=google-chrome&logoColor=green)](https://www.yourwebsite.com)
 
   </br>
 
@@ -19,14 +19,13 @@
   [![Next.js](https://img.shields.io/badge/Next.js-1d252c?style=plastic&logo=next.js&)](https://nextjs.org/)
   [![Node.js](https://img.shields.io/badge/Node.js-1d252c?style=plastic&logo=node.js&)](https://nodejs.org/)
   [![Express](https://img.shields.io/badge/Express.js-1d252c?style=plastic&logo=express&logoColor=white)](https://expressjs.com/)
-  [![Redux](https://img.shields.io/badge/Redux-1d252c?style=plastic&logo=redux&)](https://redux.js.org/)
-  [![Zustand](https://img.shields.io/badge/Zustand-1d252c?style=plastic&logo=zustand&)](https://zustand-demo.pmnd.rs/)\
+  [![Redux](https://img.shields.io/badge/Redux-1d252c?style=plastic&logo=redux&)](https://redux.js.org/)\
   [![Webpack](https://img.shields.io/badge/Webpack-1d252c?style=plastic&logo=webpack&)](https://webpack.js.org/)
   [![Vite](https://img.shields.io/badge/Vite-1d252c?style=plastic&logo=vite&)](https://vitejs.dev/)
-  [![Parcel](https://img.shields.io/badge/Parcel-1d252c?style=plastic&logo=parcel&)](https://parceljs.org/)
   [![Git](https://img.shields.io/badge/Git-1d252c?style=plastic&logo=git&)](https://git-scm.com/)
   [![Docker](https://img.shields.io/badge/Docker-1d252c?style=plastic&logo=docker&)](https://www.docker.com/)
   [![ESLint](https://img.shields.io/badge/ESLint-1d252c?style=plastic&logo=eslint&)](https://eslint.org/)
+  [![Stylelint](https://img.shields.io/badge/Stylelint-1d252c?style=plastic&logo=stylelint)](https://stylelint.io/)
   [![Prettier](https://img.shields.io/badge/Prettier-1d252c?style=plastic&logo=prettier&)](https://prettier.io/)
 
   </br>
@@ -34,7 +33,7 @@
   <h6>📊 Stats</h6>
   <p>
     <a href="https://github.com/nekithrill">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nekithrill&theme=city_lights&custom_title=Github&show_icons=true&include_all_commits=true"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nekithrill&theme=city_lights&custom_title=Github&show_icons=true"/>
     </a>
     <a href="https://wakatime.com/@nekithrill">
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekithrill&theme=city_lights&custom_title=Languages&layout=compact&langs_count=8&count_private=true"/>
