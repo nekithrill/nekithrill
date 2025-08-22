@@ -8,6 +8,7 @@
 
   [![Telegram](https://img.shields.io/badge/Telegram-1d252c?style=for-the-badge&logo=telegram)](https://t.me/nekithrill)
   [![Website](https://img.shields.io/badge/Website-1d252c?style=for-the-badge&logo=google-chrome&logoColor=green)](https://www.nekithrill.com)
+  [![Email](https://img.shields.io/badge/Email-1d252c?style=for-the-badge&logo=gmail&logoColor=red)](mailto:nekithrill@gmail.com)
 
   </br>
 
