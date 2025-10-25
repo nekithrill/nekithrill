@@ -9,7 +9,7 @@
   [![Telegram](https://img.shields.io/badge/Telegram-1d252c?style=for-the-badge&logo=telegram)](https://t.me/nekithrill)
   [![Email](https://img.shields.io/badge/Email-1d252c?style=for-the-badge&logo=gmail&logoColor=red)](mailto:nekithrill@gmail.com)
   [![Website](https://img.shields.io/badge/Website-1d252c?style=for-the-badge&logo=google-chrome&logoColor=green)](https://www.nekithrill.com)
-  [![Wakatime](https://img.shields.io/badge/Wakatime-ffffff?style=for-the-badge&logo=Wakatime&logoColor=black)](https://wakatime.com/@nekithrill)
+  [![Wakatime](https://img.shields.io/badge/Wakatime-1d252c?style=for-the-badge&logo=Wakatime&logoColor=white)](https://wakatime.com/@nekithrill)
 
   </br>
 
