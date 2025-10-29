@@ -20,6 +20,7 @@
   [![Next.js](https://img.shields.io/badge/Next.js-1d252c?style=plastic&logo=next.js)](https://nextjs.org/)
   [![Node.js](https://img.shields.io/badge/Node.js-1d252c?style=plastic&logo=node.js)](https://nodejs.org/)
   [![Express](https://img.shields.io/badge/Express.js-1d252c?style=plastic&logo=express)](https://expressjs.com/)
+  [![NestJS](https://img.shields.io/badge/NestJS-1d252c?style=plastic&logo=nestjs)](https://nestjs.com/)
   [![Redux](https://img.shields.io/badge/Redux-1d252c?style=plastic&logo=redux)](https://redux.js.org/)\
   [![Webpack](https://img.shields.io/badge/Webpack-1d252c?style=plastic&logo=webpack)](https://webpack.js.org/)
   [![Vite](https://img.shields.io/badge/Vite-1d252c?style=plastic&logo=vite)](https://vitejs.dev/)
@@ -28,6 +29,7 @@
   [![ESLint](https://img.shields.io/badge/ESLint-1d252c?style=plastic&logo=eslint)](https://eslint.org/)
   [![Stylelint](https://img.shields.io/badge/Stylelint-1d252c?style=plastic&logo=stylelint)](https://stylelint.io/)
   [![Prettier](https://img.shields.io/badge/Prettier-1d252c?style=plastic&logo=prettier)](https://prettier.io/)
+  [![Biome](https://img.shields.io/badge/Biome-1d252c?style=plastic&logo=biome)](https://biomejs.dev/)
 
   </br>
 
