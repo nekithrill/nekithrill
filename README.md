@@ -9,8 +9,7 @@
   [![Telegram](https://img.shields.io/badge/Telegram-1d252c?style=for-the-badge&logo=telegram)](https://t.me/nekithrill)
   [![Email](https://img.shields.io/badge/Email-1d252c?style=for-the-badge&logo=gmail&logoColor=red)](mailto:nekithrill@gmail.com)
   [![Website](https://img.shields.io/badge/Website-1d252c?style=for-the-badge&logo=google-chrome&logoColor=green)](https://www.nekithrill.com)
-  [![Wakatime](https://img.shields.io/badge/Wakatime-1d252c?style=for-the-badge&logo=Wakatime&logoColor=white)](https://wakatime.com/@nekithrill)
-
+  
   </br>
 
   <h6>🛠 Stack</h6>
@@ -33,6 +32,9 @@
   </br>
 
   <h6>📊 Stats</h6>
+  
+  [![Wakatime](https://img.shields.io/badge/Wakatime-1d252c?style=for-the-badge&logo=Wakatime&logoColor=white)](https://wakatime.com/@nekithrill)
+
   <p>
     <a href="https://github.com/nekithrill">
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nekithrill&theme=city_lights&custom_title=Github&show_icons=true"/>
