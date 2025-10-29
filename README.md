@@ -22,7 +22,6 @@
   [![Express](https://img.shields.io/badge/Express.js-1d252c?style=plastic&logo=express)](https://expressjs.com/)
   [![NestJS](https://img.shields.io/badge/NestJS-1d252c?style=plastic&logo=nestjs)](https://nestjs.com/)
   [![Redux](https://img.shields.io/badge/Redux-1d252c?style=plastic&logo=redux)](https://redux.js.org/)\
-  [![Webpack](https://img.shields.io/badge/Webpack-1d252c?style=plastic&logo=webpack)](https://webpack.js.org/)
   [![Vite](https://img.shields.io/badge/Vite-1d252c?style=plastic&logo=vite)](https://vitejs.dev/)
   [![Git](https://img.shields.io/badge/Git-1d252c?style=plastic&logo=git)](https://git-scm.com/)
   [![Docker](https://img.shields.io/badge/Docker-1d252c?style=plastic&logo=docker)](https://www.docker.com/)
