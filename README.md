@@ -4,8 +4,6 @@
 
   ![Welcome-GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdpMHk0bHoydnE0aGEybHA4aXV0eGR2djN0Nm9pMTF2YmpvOTc3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4vXquk6z6tQ9fqqIjN/giphy.gif)
 
-  💻 Frontend developer, expanding into fullstack
-
   <h6>🛠 Stack</h6>
   
   [![HTML](https://img.shields.io/badge/HTML-1d252c?style=plastic&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
