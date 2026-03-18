@@ -17,7 +17,6 @@
   [![JavaScript](https://img.shields.io/badge/JavaScript-1d252c?style=plastic&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![TypeScript](https://img.shields.io/badge/TypeScript-1d252c?style=plastic&logo=typescript)](https://www.typescriptlang.org/)
   [![React](https://img.shields.io/badge/React-1d252c?style=plastic&logo=react)](https://reactjs.org/)
-  [![Next.js](https://img.shields.io/badge/Next.js-1d252c?style=plastic&logo=next.js)](https://nextjs.org/)
   [![Node.js](https://img.shields.io/badge/Node.js-1d252c?style=plastic&logo=node.js)](https://nodejs.org/)
   [![Express](https://img.shields.io/badge/Express.js-1d252c?style=plastic&logo=express)](https://expressjs.com/)
   [![NestJS](https://img.shields.io/badge/NestJS-1d252c?style=plastic&logo=nestjs)](https://nestjs.com/)
