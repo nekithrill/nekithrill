@@ -1,6 +1,6 @@
 <div>
 
-  <h3>Hi there! 👋🏻</h3>
+  <h3>Hello there! 👋🏻</h3>
 
   ![Welcome-GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdpMHk0bHoydnE0aGEybHA4aXV0eGR2djN0Nm9pMTF2YmpvOTc3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4vXquk6z6tQ9fqqIjN/giphy.gif)
 
