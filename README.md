@@ -28,7 +28,7 @@
 
   [![Telegram](https://img.shields.io/badge/Telegram-1d252c?style=plastic&logo=telegram)](https://t.me/nekithrill)
   [![Email](https://img.shields.io/badge/Email-1d252c?style=plastic&logo=gmail&logoColor=red)](mailto:nekithrill@gmail.com)
-  [![Website](https://img.shields.io/badge/Website-1d252c?style=plastic&logo=google-chrome&logoColor=white)](https://www.nekithrill.com)
+  [![Website](https://img.shields.io/badge/Website-1d252c?style=plastic&logo=google-chrome&logoColor=white)](https://nekithrill.github.io/portfolio)
 
   <h6>📊 Stats</h6>
   
