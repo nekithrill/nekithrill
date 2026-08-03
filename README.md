@@ -1,8 +1,8 @@
 <h1>Hi 👋🏻, I'm nekithrill!</h1>
 
-<!-- <p align="left">
+<!-- <div align="left">
   <img src="assets/mascot-wave.gif" width="256" height="256" alt="mascot-wave">
-</p> -->
+</div> -->
 
 <h2 >Bio</h2>
 
@@ -17,28 +17,24 @@
 <!-- <h2>Projects</h2>
 
 <table>
-  <thead>
-    <tr>
-      <th align="left">Name</th>
-      <th align="left">Tech Stack</th>
-      <th align="left">Description</th>
-      <th align="center">Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Project 1</b></td>
-      <td><code>React</code> <code>TypeScript</code></td>
-      <td>Brief description of what this project does and what problems it solves.</td>
-      <td align="center"><a href="#" target="_blank">Live</a> / <a href="#" target="_blank">Code</a></td>
-    </tr>
-    <tr>
-      <td><b>Project 2</b></td>
-      <td><code>Vite</code> <code>SASS</code></td>
-      <td>Another awesome web application with clean architecture and smooth UX.</td>
-      <td align="center"><a href="#" target="_blank">Live</a> / <a href="#" target="_blank">Code</a></td>
-    </tr>
-  </tbody>
+  <tr>
+    <th align="left">Name</th>
+    <th align="left">Tech Stack</th>
+    <th align="left">Description</th>
+    <th align="center">Links</th>
+  </tr>
+  <tr>
+    <td>Project 1</td>
+    <td>React, TypeScript</td>
+    <td>Brief description of what this project does and what problems it solves.</td>
+    <td align="center"><a href="#" target="_blank">Live</a> / <a href="#" target="_blank">Code</a></td>
+  </tr>
+  <tr>
+    <td>Project 2</td>
+    <td>Vite, SASS</td>
+    <td>Another awesome web application with clean architecture and smooth UX.</td>
+    <td align="center"><a href="#" target="_blank">Live</a> / <a href="#" target="_blank">Code</a></td>
+  </tr>
 </table> -->
 
 <h2>Stack</h2>
