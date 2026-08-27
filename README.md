@@ -6,7 +6,7 @@
 
 <h2 >Bio</h2>
 
-🔗 **[Explore My Portfolio](https://nekithrill.github.io/portfolio)**
+🔗 **[Explore My Portfolio](https://nekithrill.github.io/portfolio)** (old version, working on changing the style and improving it)
 
 <div>
   I'm a <b>Frontend Developer</b> focused on building fast, clean, and user-friendly web interfaces.<br>
