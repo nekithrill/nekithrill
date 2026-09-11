@@ -4,8 +4,6 @@
   <img src="assets/mascot-wave.gif" width="256" height="256" alt="mascot-wave">
 </div> -->
 
-<h2 >Bio</h2>
-
 🔗 **[Explore My Portfolio](https://nekithrill.github.io/portfolio)** (old version, working on changing the style and improving it)
 
 <div>
